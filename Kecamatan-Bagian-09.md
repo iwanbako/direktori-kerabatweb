@@ -5,413 +5,413 @@
 [« Kembali ke Halaman Utama (Provinsi)](./README.md)
 </div>
 
-| Kecamatan | Kabupaten/Kota | Aksi |
-|:---|:---|:---:|
-| **Kec. Dlingo** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/dlingo/) |
-| **Kec. Pleret** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/pleret/) |
-| **Kec. Piyungan** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/piyungan/) |
-| **Kec. Banguntapan** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/banguntapan/) |
-| **Kec. Sewon** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/sewon/) |
-| **Kec. Kasihan** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/kasihan/) |
-| **Kec. Pajangan** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/pajangan/) |
-| **Kec. Sedayu** | Bantul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/bantul/sedayu/) |
-| **Kec. Panggang** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/panggang/) |
-| **Kec. Purwosari** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/purwosari/) |
-| **Kec. Paliyan** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/paliyan/) |
-| **Kec. Sapto Sari** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/sapto-sari/) |
-| **Kec. Tepus** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/tepus/) |
-| **Kec. Tanjungsari** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/tanjungsari/) |
-| **Kec. Rongkop** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/rongkop/) |
-| **Kec. Girisubo** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/girisubo/) |
-| **Kec. Semanu** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/semanu/) |
-| **Kec. Ponjong** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/ponjong/) |
-| **Kec. Karangmojo** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/karangmojo/) |
-| **Kec. Wonosari** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/wonosari/) |
-| **Kec. Playen** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/playen/) |
-| **Kec. Patuk** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/patuk/) |
-| **Kec. Gedang Sari** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/gedang-sari/) |
-| **Kec. Nglipar** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/nglipar/) |
-| **Kec. Ngawen** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/ngawen/) |
-| **Kec. Semin** | Gunung Kidul | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/gunung-kidul/semin/) |
-| **Kec. Moyudan** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/moyudan/) |
-| **Kec. Minggir** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/minggir/) |
-| **Kec. Seyegan** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/seyegan/) |
-| **Kec. Godean** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/godean/) |
-| **Kec. Gamping** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/gamping/) |
-| **Kec. Mlati** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/mlati/) |
-| **Kec. Depok** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/depok/) |
-| **Kec. Berbah** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/berbah/) |
-| **Kec. Prambanan** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/prambanan/) |
-| **Kec. Kalasan** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/kalasan/) |
-| **Kec. Ngemplak** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/ngemplak/) |
-| **Kec. Ngaglik** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/ngaglik/) |
-| **Kec. Sleman** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/sleman/) |
-| **Kec. Tempel** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/tempel/) |
-| **Kec. Turi** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/turi/) |
-| **Kec. Pakem** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/pakem/) |
-| **Kec. Cangkringan** | Sleman | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/sleman/cangkringan/) |
-| **Kec. Mantrijeron** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/mantrijeron/) |
-| **Kec. Kraton** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/kraton/) |
-| **Kec. Mergangsan** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/mergangsan/) |
-| **Kec. Umbulharjo** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/umbulharjo/) |
-| **Kec. Kotagede** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/kotagede/) |
-| **Kec. Gondokusuman** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/gondokusuman/) |
-| **Kec. Danurejan** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/danurejan/) |
-| **Kec. Pakualaman** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/pakualaman/) |
-| **Kec. Gondomanan** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/gondomanan/) |
-| **Kec. Ngampilan** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/ngampilan/) |
-| **Kec. Wirobrajan** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/wirobrajan/) |
-| **Kec. Gedong Tengen** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/gedong-tengen/) |
-| **Kec. Jetis** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/jetis/) |
-| **Kec. Tegalrejo** | Kota Yogyakarta | [Buka Website 🚀](https://kerabatweb.com/di-yogyakarta/kota-yogyakarta/tegalrejo/) |
-| **Kec. Donorojo** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/donorojo/) |
-| **Kec. Punung** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/punung/) |
-| **Kec. Pringkuku** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/pringkuku/) |
-| **Kec. Pacitan** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/pacitan/) |
-| **Kec. Kebonagung** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/kebonagung/) |
-| **Kec. Arjosari** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/arjosari/) |
-| **Kec. Nawangan** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/nawangan/) |
-| **Kec. Bandar** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/bandar/) |
-| **Kec. Tegalombo** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/tegalombo/) |
-| **Kec. Tulakan** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/tulakan/) |
-| **Kec. Ngadirojo** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/ngadirojo/) |
-| **Kec. Sudimoro** | Pacitan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pacitan/sudimoro/) |
-| **Kec. Ngrayun** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/ngrayun/) |
-| **Kec. Slahung** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/slahung/) |
-| **Kec. Bungkal** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/bungkal/) |
-| **Kec. Sambit** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/sambit/) |
-| **Kec. Sawoo** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/sawoo/) |
-| **Kec. Sooko** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/sooko/) |
-| **Kec. Pudak** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/pudak/) |
-| **Kec. Pulung** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/pulung/) |
-| **Kec. Mlarak** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/mlarak/) |
-| **Kec. Siman** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/siman/) |
-| **Kec. Jetis** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/jetis/) |
-| **Kec. Balong** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/balong/) |
-| **Kec. Kauman** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/kauman/) |
-| **Kec. Jambon** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/jambon/) |
-| **Kec. Badegan** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/badegan/) |
-| **Kec. Sampung** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/sampung/) |
-| **Kec. Sukorejo** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/sukorejo/) |
-| **Kec. Ponorogo** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/ponorogo/) |
-| **Kec. Babadan** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/babadan/) |
-| **Kec. Jenangan** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/jenangan/) |
-| **Kec. Ngebel** | Ponorogo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/ponorogo/ngebel/) |
-| **Kec. Panggul** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/panggul/) |
-| **Kec. Munjungan** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/munjungan/) |
-| **Kec. Watulimo** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/watulimo/) |
-| **Kec. Kampak** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/kampak/) |
-| **Kec. Dongko** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/dongko/) |
-| **Kec. Pule** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/pule/) |
-| **Kec. Karangan** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/karangan/) |
-| **Kec. Suruh** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/suruh/) |
-| **Kec. Gandusari** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/gandusari/) |
-| **Kec. Durenan** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/durenan/) |
-| **Kec. Pogalan** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/pogalan/) |
-| **Kec. Trenggalek** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/trenggalek/) |
-| **Kec. Tugu** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/tugu/) |
-| **Kec. Bendungan** | Trenggalek | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/trenggalek/bendungan/) |
-| **Kec. Besuki** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/besuki/) |
-| **Kec. Bandung** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/bandung/) |
-| **Kec. Pakel** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/pakel/) |
-| **Kec. Campur Darat** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/campur-darat/) |
-| **Kec. Tanggung Gunung** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/tanggung-gunung/) |
-| **Kec. Kalidawir** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/kalidawir/) |
-| **Kec. Pucang Laban** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/pucang-laban/) |
-| **Kec. Rejotangan** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/rejotangan/) |
-| **Kec. Ngunut** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/ngunut/) |
-| **Kec. Sumbergempol** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/sumbergempol/) |
-| **Kec. Boyolangu** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/boyolangu/) |
-| **Kec. Tulungagung** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/tulungagung/) |
-| **Kec. Kedungwaru** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/kedungwaru/) |
-| **Kec. Ngantru** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/ngantru/) |
-| **Kec. Karangrejo** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/karangrejo/) |
-| **Kec. Kauman** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/kauman/) |
-| **Kec. Gondang** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/gondang/) |
-| **Kec. Pager Wojo** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/pager-wojo/) |
-| **Kec. Sendang** | Tulungagung | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/tulungagung/sendang/) |
-| **Kec. Bakung** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/bakung/) |
-| **Kec. Wonotirto** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/wonotirto/) |
-| **Kec. Panggungrejo** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/panggungrejo/) |
-| **Kec. Wates** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/wates/) |
-| **Kec. Binangun** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/binangun/) |
-| **Kec. Sutojayan** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/sutojayan/) |
-| **Kec. Kademangan** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/kademangan/) |
-| **Kec. Kanigoro** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/kanigoro/) |
-| **Kec. Talun** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/talun/) |
-| **Kec. Selopuro** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/selopuro/) |
-| **Kec. Kesamben** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/kesamben/) |
-| **Kec. Selorejo** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/selorejo/) |
-| **Kec. Doko** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/doko/) |
-| **Kec. Wlingi** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/wlingi/) |
-| **Kec. Gandusari** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/gandusari/) |
-| **Kec. Garum** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/garum/) |
-| **Kec. Nglegok** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/nglegok/) |
-| **Kec. Sanankulon** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/sanankulon/) |
-| **Kec. Ponggok** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/ponggok/) |
-| **Kec. Srengat** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/srengat/) |
-| **Kec. Wonodadi** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/wonodadi/) |
-| **Kec. Udanawu** | Blitar | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/blitar/udanawu/) |
-| **Kec. Mojo** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/mojo/) |
-| **Kec. Semen** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/semen/) |
-| **Kec. Ngadiluwih** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/ngadiluwih/) |
-| **Kec. Kras** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/kras/) |
-| **Kec. Ringinrejo** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/ringinrejo/) |
-| **Kec. Kandat** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/kandat/) |
-| **Kec. Wates** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/wates/) |
-| **Kec. Ngancar** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/ngancar/) |
-| **Kec. Plosoklaten** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/plosoklaten/) |
-| **Kec. Gurah** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/gurah/) |
-| **Kec. Puncu** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/puncu/) |
-| **Kec. Kepung** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/kepung/) |
-| **Kec. Kandangan** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/kandangan/) |
-| **Kec. Pare** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/pare/) |
-| **Kec. Badas** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/badas/) |
-| **Kec. Kunjang** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/kunjang/) |
-| **Kec. Plemahan** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/plemahan/) |
-| **Kec. Purwoasri** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/purwoasri/) |
-| **Kec. Papar** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/papar/) |
-| **Kec. Pagu** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/pagu/) |
-| **Kec. Kayen Kidul** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/kayen-kidul/) |
-| **Kec. Gampengrejo** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/gampengrejo/) |
-| **Kec. Ngasem** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/ngasem/) |
-| **Kec. Banyakan** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/banyakan/) |
-| **Kec. Grogol** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/grogol/) |
-| **Kec. Tarokan** | Kediri | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/kediri/tarokan/) |
-| **Kec. Donomulyo** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/donomulyo/) |
-| **Kec. Kalipare** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/kalipare/) |
-| **Kec. Pagak** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/pagak/) |
-| **Kec. Bantur** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/bantur/) |
-| **Kec. Gedangan** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/gedangan/) |
-| **Kec. Sumbermanjing** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/sumbermanjing/) |
-| **Kec. Dampit** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/dampit/) |
-| **Kec. Tirto Yudo** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/tirto-yudo/) |
-| **Kec. Ampelgading** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/ampelgading/) |
-| **Kec. Poncokusumo** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/poncokusumo/) |
-| **Kec. Wajak** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/wajak/) |
-| **Kec. Turen** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/turen/) |
-| **Kec. Bululawang** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/bululawang/) |
-| **Kec. Gondanglegi** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/gondanglegi/) |
-| **Kec. Pagelaran** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/pagelaran/) |
-| **Kec. Kepanjen** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/kepanjen/) |
-| **Kec. Sumber Pucung** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/sumber-pucung/) |
-| **Kec. Kromengan** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/kromengan/) |
-| **Kec. Ngajum** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/ngajum/) |
-| **Kec. Wonosari** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/wonosari/) |
-| **Kec. Wagir** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/wagir/) |
-| **Kec. Pakisaji** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/pakisaji/) |
-| **Kec. Tajinan** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/tajinan/) |
-| **Kec. Tumpang** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/tumpang/) |
-| **Kec. Pakis** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/pakis/) |
-| **Kec. Jabung** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/jabung/) |
-| **Kec. Lawang** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/lawang/) |
-| **Kec. Singosari** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/singosari/) |
-| **Kec. Karangploso** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/karangploso/) |
-| **Kec. Dau** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/dau/) |
-| **Kec. Pujon** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/pujon/) |
-| **Kec. Ngantang** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/ngantang/) |
-| **Kec. Kasembon** | Malang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/malang/kasembon/) |
-| **Kec. Tempursari** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/tempursari/) |
-| **Kec. Pronojiwo** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/pronojiwo/) |
-| **Kec. Candipuro** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/candipuro/) |
-| **Kec. Pasirian** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/pasirian/) |
-| **Kec. Tempeh** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/tempeh/) |
-| **Kec. Lumajang** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/lumajang/) |
-| **Kec. Sumbersuko** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/sumbersuko/) |
-| **Kec. Tekung** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/tekung/) |
-| **Kec. Kunir** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/kunir/) |
-| **Kec. Yosowilangun** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/yosowilangun/) |
-| **Kec. Rowokangkung** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/rowokangkung/) |
-| **Kec. Jatiroto** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/jatiroto/) |
-| **Kec. Randuagung** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/randuagung/) |
-| **Kec. Sukodono** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/sukodono/) |
-| **Kec. Padang** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/padang/) |
-| **Kec. Pasrujambe** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/pasrujambe/) |
-| **Kec. Senduro** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/senduro/) |
-| **Kec. Gucialit** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/gucialit/) |
-| **Kec. Kedungjajang** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/kedungjajang/) |
-| **Kec. Klakah** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/klakah/) |
-| **Kec. Ranuyoso** | Lumajang | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/lumajang/ranuyoso/) |
-| **Kec. Kencong** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/kencong/) |
-| **Kec. Gumuk Mas** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/gumuk-mas/) |
-| **Kec. Puger** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/puger/) |
-| **Kec. Wuluhan** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/wuluhan/) |
-| **Kec. Ambulu** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/ambulu/) |
-| **Kec. Tempurejo** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/tempurejo/) |
-| **Kec. Silo** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/silo/) |
-| **Kec. Mayang** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/mayang/) |
-| **Kec. Mumbulsari** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/mumbulsari/) |
-| **Kec. Jenggawah** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/jenggawah/) |
-| **Kec. Ajung** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/ajung/) |
-| **Kec. Rambipuji** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/rambipuji/) |
-| **Kec. Balung** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/balung/) |
-| **Kec. Umbulsari** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/umbulsari/) |
-| **Kec. Semboro** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/semboro/) |
-| **Kec. Jombang** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/jombang/) |
-| **Kec. Sumber Baru** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/sumber-baru/) |
-| **Kec. Tanggul** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/tanggul/) |
-| **Kec. Bangsalsari** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/bangsalsari/) |
-| **Kec. Panti** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/panti/) |
-| **Kec. Sukorambi** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/sukorambi/) |
-| **Kec. Arjasa** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/arjasa/) |
-| **Kec. Pakusari** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/pakusari/) |
-| **Kec. Kalisat** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/kalisat/) |
-| **Kec. Ledokombo** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/ledokombo/) |
-| **Kec. Sumberjambe** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/sumberjambe/) |
-| **Kec. Sukowono** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/sukowono/) |
-| **Kec. Jelbuk** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/jelbuk/) |
-| **Kec. Kaliwates** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/kaliwates/) |
-| **Kec. Sumbersari** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/sumbersari/) |
-| **Kec. Patrang** | Jember | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/jember/patrang/) |
-| **Kec. Pesanggaran** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/pesanggaran/) |
-| **Kec. Siliragung** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/siliragung/) |
-| **Kec. Bangorejo** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/bangorejo/) |
-| **Kec. Purwoharjo** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/purwoharjo/) |
-| **Kec. Tegaldlimo** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/tegaldlimo/) |
-| **Kec. Muncar** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/muncar/) |
-| **Kec. Cluring** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/cluring/) |
-| **Kec. Gambiran** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/gambiran/) |
-| **Kec. Tegalsari** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/tegalsari/) |
-| **Kec. Glenmore** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/glenmore/) |
-| **Kec. Kalibaru** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/kalibaru/) |
-| **Kec. Genteng** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/genteng/) |
-| **Kec. Srono** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/srono/) |
-| **Kec. Rogojampi** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/rogojampi/) |
-| **Kec. Blimbingsari** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/blimbingsari/) |
-| **Kec. Kabat** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/kabat/) |
-| **Kec. Singojuruh** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/singojuruh/) |
-| **Kec. Sempu** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/sempu/) |
-| **Kec. Songgon** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/songgon/) |
-| **Kec. Glagah** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/glagah/) |
-| **Kec. Licin** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/licin/) |
-| **Kec. Banyuwangi** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/banyuwangi/) |
-| **Kec. Giri** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/giri/) |
-| **Kec. Kalipuro** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/kalipuro/) |
-| **Kec. Wongsorejo** | Banyuwangi | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/banyuwangi/wongsorejo/) |
-| **Kec. Maesan** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/maesan/) |
-| **Kec. Grujugan** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/grujugan/) |
-| **Kec. Tamanan** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/tamanan/) |
-| **Kec. Jambesari Darus Sholah** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/jambesari-darus-sholah/) |
-| **Kec. Pujer** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/pujer/) |
-| **Kec. Tlogosari** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/tlogosari/) |
-| **Kec. Sukosari** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/sukosari/) |
-| **Kec. Sumber Wringin** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/sumber-wringin/) |
-| **Kec. Tapen** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/tapen/) |
-| **Kec. Wonosari** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/wonosari/) |
-| **Kec. Tenggarang** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/tenggarang/) |
-| **Kec. Bondowoso** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/bondowoso/) |
-| **Kec. Curah Dami** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/curah-dami/) |
-| **Kec. Binakal** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/binakal/) |
-| **Kec. Pakem** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/pakem/) |
-| **Kec. Wringin** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/wringin/) |
-| **Kec. Tegalampel** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/tegalampel/) |
-| **Kec. Taman Krocok** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/taman-krocok/) |
-| **Kec. Klabang** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/klabang/) |
-| **Kec. Ijen** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/ijen/) |
-| **Kec. Botolinggo** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/botolinggo/) |
-| **Kec. Prajekan** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/prajekan/) |
-| **Kec. Cermee** | Bondowoso | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/bondowoso/cermee/) |
-| **Kec. Sumbermalang** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/sumbermalang/) |
-| **Kec. Jatibanteng** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/jatibanteng/) |
-| **Kec. Banyuglugur** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/banyuglugur/) |
-| **Kec. Besuki** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/besuki/) |
-| **Kec. Suboh** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/suboh/) |
-| **Kec. Mlandingan** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/mlandingan/) |
-| **Kec. Bungatan** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/bungatan/) |
-| **Kec. Kendit** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/kendit/) |
-| **Kec. Panarukan** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/panarukan/) |
-| **Kec. Situbondo** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/situbondo/) |
-| **Kec. Mangaran** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/mangaran/) |
-| **Kec. Panji** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/panji/) |
-| **Kec. Kapongan** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/kapongan/) |
-| **Kec. Arjasa** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/arjasa/) |
-| **Kec. Jangkar** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/jangkar/) |
-| **Kec. Asembagus** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/asembagus/) |
-| **Kec. Banyuputih** | Situbondo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/situbondo/banyuputih/) |
-| **Kec. Sukapura** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/sukapura/) |
-| **Kec. Sumber** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/sumber/) |
-| **Kec. Kuripan** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/kuripan/) |
-| **Kec. Bantaran** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/bantaran/) |
-| **Kec. Leces** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/leces/) |
-| **Kec. Tegalsiwalan** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/tegalsiwalan/) |
-| **Kec. Banyuanyar** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/banyuanyar/) |
-| **Kec. Tiris** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/tiris/) |
-| **Kec. Krucil** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/krucil/) |
-| **Kec. Gading** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/gading/) |
-| **Kec. Pakuniran** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/pakuniran/) |
-| **Kec. Kotaanyar** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/kotaanyar/) |
-| **Kec. Paiton** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/paiton/) |
-| **Kec. Besuk** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/besuk/) |
-| **Kec. Kraksaan** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/kraksaan/) |
-| **Kec. Krejengan** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/krejengan/) |
-| **Kec. Pajarakan** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/pajarakan/) |
-| **Kec. Maron** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/maron/) |
-| **Kec. Gending** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/gending/) |
-| **Kec. Dringu** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/dringu/) |
-| **Kec. Wonomerto** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/wonomerto/) |
-| **Kec. Lumbang** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/lumbang/) |
-| **Kec. Tongas** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/tongas/) |
-| **Kec. Sumberasih** | Probolinggo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/probolinggo/sumberasih/) |
-| **Kec. Purwodadi** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/purwodadi/) |
-| **Kec. Tutur** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/tutur/) |
-| **Kec. Puspo** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/puspo/) |
-| **Kec. Tosari** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/tosari/) |
-| **Kec. Lumbang** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/lumbang/) |
-| **Kec. Pasrepan** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/pasrepan/) |
-| **Kec. Kejayan** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/kejayan/) |
-| **Kec. Wonorejo** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/wonorejo/) |
-| **Kec. Purwosari** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/purwosari/) |
-| **Kec. Prigen** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/prigen/) |
-| **Kec. Sukorejo** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/sukorejo/) |
-| **Kec. Pandaan** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/pandaan/) |
-| **Kec. Gempol** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/gempol/) |
-| **Kec. Beji** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/beji/) |
-| **Kec. Bangil** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/bangil/) |
-| **Kec. Rembang** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/rembang/) |
-| **Kec. Kraton** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/kraton/) |
-| **Kec. Pohjentrek** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/pohjentrek/) |
-| **Kec. Gondang Wetan** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/gondang-wetan/) |
-| **Kec. Rejoso** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/rejoso/) |
-| **Kec. Winongan** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/winongan/) |
-| **Kec. Grati** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/grati/) |
-| **Kec. Lekok** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/lekok/) |
-| **Kec. Nguling** | Pasuruan | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/pasuruan/nguling/) |
-| **Kec. Tarik** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/tarik/) |
-| **Kec. Prambon** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/prambon/) |
-| **Kec. Krembung** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/krembung/) |
-| **Kec. Porong** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/porong/) |
-| **Kec. Jabon** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/jabon/) |
-| **Kec. Tanggulangin** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/tanggulangin/) |
-| **Kec. Candi** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/candi/) |
-| **Kec. Tulangan** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/tulangan/) |
-| **Kec. Wonoayu** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/wonoayu/) |
-| **Kec. Sukodono** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/sukodono/) |
-| **Kec. Sidoarjo** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/sidoarjo/) |
-| **Kec. Buduran** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/buduran/) |
-| **Kec. Sedati** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/sedati/) |
-| **Kec. Waru** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/waru/) |
-| **Kec. Gedangan** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/gedangan/) |
-| **Kec. Taman** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/taman/) |
-| **Kec. Krian** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/krian/) |
-| **Kec. Balong Bendo** | Sidoarjo | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/sidoarjo/balong-bendo/) |
-| **Kec. Jatirejo** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/jatirejo/) |
-| **Kec. Gondang** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/gondang/) |
-| **Kec. Pacet** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/pacet/) |
-| **Kec. Trawas** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/trawas/) |
-| **Kec. Ngoro** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/ngoro/) |
-| **Kec. Pungging** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/pungging/) |
-| **Kec. Kutorejo** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/kutorejo/) |
-| **Kec. Mojosari** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/mojosari/) |
-| **Kec. Bangsal** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/bangsal/) |
-| **Kec. Mojoanyar** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/mojoanyar/) |
-| **Kec. Dlanggu** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/dlanggu/) |
-| **Kec. Puri** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/puri/) |
-| **Kec. Trowulan** | Mojokerto | [Buka Website 🚀](https://kerabatweb.com/jawa-timur/mojokerto/trowulan/) |
+| Kecamatan | Kabupaten | Aksi | Kecamatan | Kabupaten | Aksi |
+|:---|:---|:---:|:---|:---|:---:|
+| **Kec. Maba Tengah** | Halmahera Timur | [Buka 🚀](https://kerabatweb.com/maluku-utara/halmahera-timur/maba-tengah/) | **Kec. Maba Utara** | Halmahera Timur | [Buka 🚀](https://kerabatweb.com/maluku-utara/halmahera-timur/maba-utara/) |
+| **Kec. Morotai Selatan** | Pulau Morotai | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-morotai/morotai-selatan/) | **Kec. Morotai Timur** | Pulau Morotai | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-morotai/morotai-timur/) |
+| **Kec. Morotai Selatan Barat** | Pulau Morotai | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-morotai/morotai-selatan-barat/) | **Kec. Morotai Jaya** | Pulau Morotai | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-morotai/morotai-jaya/) |
+| **Kec. Morotai Utara** | Pulau Morotai | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-morotai/morotai-utara/) | **Kec. Taliabu Barat** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/taliabu-barat/) |
+| **Kec. Taliabu Selatan** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/taliabu-selatan/) | **Kec. Tabona** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/tabona/) |
+| **Kec. Taliabu Timur Selatan** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/taliabu-timur-selatan/) | **Kec. Taliabu Timur** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/taliabu-timur/) |
+| **Kec. Taliabu Utara** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/taliabu-utara/) | **Kec. Lede** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/lede/) |
+| **Kec. Taliabu Barat Laut** | Pulau Taliabu | [Buka 🚀](https://kerabatweb.com/maluku-utara/pulau-taliabu/taliabu-barat-laut/) | **Kec. Pulau Ternate** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/pulau-ternate/) |
+| **Kec. Moti** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/moti/) | **Kec. Pulau Batang Dua** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/pulau-batang-dua/) |
+| **Kec. Pulau Hiri** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/pulau-hiri/) | **Kec. Ternate Barat** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/ternate-barat/) |
+| **Kec. Ternate Selatan** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/ternate-selatan/) | **Kec. Ternate Tengah** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/ternate-tengah/) |
+| **Kec. Ternate Utara** | Kota Ternate | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-ternate/ternate-utara/) | **Kec. Tidore Selatan** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/tidore-selatan/) |
+| **Kec. Tidore Utara** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/tidore-utara/) | **Kec. Tidore** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/tidore/) |
+| **Kec. Tidore Timur** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/tidore-timur/) | **Kec. Oba** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/oba/) |
+| **Kec. Oba Selatan** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/oba-selatan/) | **Kec. Oba Utara** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/oba-utara/) |
+| **Kec. Oba Tengah** | Kota Tidore Kepulauan | [Buka 🚀](https://kerabatweb.com/maluku-utara/kota-tidore-kepulauan/oba-tengah/) | **Kec. Fakfak Timur** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/fakfak-timur/) |
+| **Kec. Karas** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/karas/) | **Kec. Fakfak Timur Tengah** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/fakfak-timur-tengah/) |
+| **Kec. Fakfak** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/fakfak/) | **Kec. Fakfak Tengah** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/fakfak-tengah/) |
+| **Kec. Pariwari** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/pariwari/) | **Kec. Fakfak Barat** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/fakfak-barat/) |
+| **Kec. Wartutin** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/wartutin/) | **Kec. Kokas** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/kokas/) |
+| **Kec. Teluk Patipi** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/teluk-patipi/) | **Kec. Kramongmongga** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/kramongmongga/) |
+| **Kec. Bomberay** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/bomberay/) | **Kec. Arguni** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/arguni/) |
+| **Kec. Mbahamdandara** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/mbahamdandara/) | **Kec. Furwagi** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/furwagi/) |
+| **Kec. Kayauni** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/kayauni/) | **Kec. Tomage** | Fakfak | [Buka 🚀](https://kerabatweb.com/papua-barat/fakfak/tomage/) |
+| **Kec. Buruway** | Kaimana | [Buka 🚀](https://kerabatweb.com/papua-barat/kaimana/buruway/) | **Kec. Teluk Arguni** | Kaimana | [Buka 🚀](https://kerabatweb.com/papua-barat/kaimana/teluk-arguni/) |
+| **Kec. Teluk Arguni Bawah** | Kaimana | [Buka 🚀](https://kerabatweb.com/papua-barat/kaimana/teluk-arguni-bawah/) | **Kec. Kaimana** | Kaimana | [Buka 🚀](https://kerabatweb.com/papua-barat/kaimana/kaimana/) |
+| **Kec. Kambrau** | Kaimana | [Buka 🚀](https://kerabatweb.com/papua-barat/kaimana/kambrau/) | **Kec. Teluk Etna** | Kaimana | [Buka 🚀](https://kerabatweb.com/papua-barat/kaimana/teluk-etna/) |
+| **Kec. Yamor** | Kaimana | [Buka 🚀](https://kerabatweb.com/papua-barat/kaimana/yamor/) | **Kec. Naikere** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/naikere/) |
+| **Kec. Wondiboy** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/wondiboy/) | **Kec. Rasiey** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/rasiey/) |
+| **Kec. Kuri Wamesa** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/kuri-wamesa/) | **Kec. Wasior** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/wasior/) |
+| **Kec. Duairi** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/duairi/) | **Kec. Roon** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/roon/) |
+| **Kec. Windesi** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/windesi/) | **Kec. Nikiwar** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/nikiwar/) |
+| **Kec. Wamesa** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/wamesa/) | **Kec. Roswar** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/roswar/) |
+| **Kec. Rumberpon** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/rumberpon/) | **Kec. Soug Jaya** | Teluk Wondama | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-wondama/soug-jaya/) |
+| **Kec. Fafurwar** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/fafurwar/) | **Kec. Babo** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/babo/) |
+| **Kec. Sumuri** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/sumuri/) | **Kec. Aroba** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/aroba/) |
+| **Kec. Kaitaro** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/kaitaro/) | **Kec. Kuri** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/kuri/) |
+| **Kec. Wamesa** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/wamesa/) | **Kec. Bintuni** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/bintuni/) |
+| **Kec. Manimeri** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/manimeri/) | **Kec. Tuhiba** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/tuhiba/) |
+| **Kec. Dataran Beimes** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/dataran-beimes/) | **Kec. Tembuni** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/tembuni/) |
+| **Kec. Aranday** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/aranday/) | **Kec. Kamundan** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/kamundan/) |
+| **Kec. Tomu** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/tomu/) | **Kec. Weriagar** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/weriagar/) |
+| **Kec. Moskona Selatan** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/moskona-selatan/) | **Kec. Meyado** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/meyado/) |
+| **Kec. Moskona Barat** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/moskona-barat/) | **Kec. Merdey** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/merdey/) |
+| **Kec. Biscoop** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/biscoop/) | **Kec. Masyeta** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/masyeta/) |
+| **Kec. Moskona Utara** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/moskona-utara/) | **Kec. Moskona Timur** | Teluk Bintuni | [Buka 🚀](https://kerabatweb.com/papua-barat/teluk-bintuni/moskona-timur/) |
+| **Kec. Warmare** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/warmare/) | **Kec. Prafi** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/prafi/) |
+| **Kec. Manokwari Barat** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/manokwari-barat/) | **Kec. Manokwari Timur** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/manokwari-timur/) |
+| **Kec. Manokwari Utara** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/manokwari-utara/) | **Kec. Manokwari Selatan** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/manokwari-selatan/) |
+| **Kec. Tanah Rubu** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/tanah-rubu/) | **Kec. Masni** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/masni/) |
+| **Kec. Sidey** | Manokwari | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari/sidey/) | **Kec. Inanwatan** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/inanwatan/) |
+| **Kec. Metemani** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/metemani/) | **Kec. Kokoda** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/kokoda/) |
+| **Kec. Kais** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/kais/) | **Kec. Kokoda Utara** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/kokoda-utara/) |
+| **Kec. Kais Darat** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/kais-darat/) | **Kec. Moswaren** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/moswaren/) |
+| **Kec. Teminabuan** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/teminabuan/) | **Kec. Seremuk** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/seremuk/) |
+| **Kec. Wayer** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/wayer/) | **Kec. Konda** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/konda/) |
+| **Kec. Saifi** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/saifi/) | **Kec. Sawiat** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/sawiat/) |
+| **Kec. Fokour** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/fokour/) | **Kec. Salkma** | Sorong Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong-selatan/salkma/) |
+| **Kec. Klaso** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/klaso/) | **Kec. Saengkeduk** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/saengkeduk/) |
+| **Kec. Makbon** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/makbon/) | **Kec. Klayili** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/klayili/) |
+| **Kec. Beraur** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/beraur/) | **Kec. Klamono** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/klamono/) |
+| **Kec. Klabot** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/klabot/) | **Kec. Klawak** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/klawak/) |
+| **Kec. Bagun** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/bagun/) | **Kec. Klasafet** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/klasafet/) |
+| **Kec. Malabotom** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/malabotom/) | **Kec. Botain** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/botain/) |
+| **Kec. Konhir** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/konhir/) | **Kec. Salawati** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/salawati/) |
+| **Kec. Mayamuk** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/mayamuk/) | **Kec. Salawati Timur** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/salawati-timur/) |
+| **Kec. Hobard** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/hobard/) | **Kec. Buk** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/buk/) |
+| **Kec. Seget** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/seget/) | **Kec. Segun** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/segun/) |
+| **Kec. Salawati Selatan** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/salawati-selatan/) | **Kec. Salawati Tengah** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/salawati-tengah/) |
+| **Kec. Aimas** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/aimas/) | **Kec. Mariat** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/mariat/) |
+| **Kec. Sorong** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/sorong/) | **Kec. Sayosa** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/sayosa/) |
+| **Kec. Maudus** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/maudus/) | **Kec. Wemak** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/wemak/) |
+| **Kec. Sayosa Timur** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/sayosa-timur/) | **Kec. Sunook** | Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/sorong/sunook/) |
+| **Kec. Misool Selatan** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/misool-selatan/) | **Kec. Misool Barat** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/misool-barat/) |
+| **Kec. Misool** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/misool/) | **Kec. Kofiau** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/kofiau/) |
+| **Kec. Misool Timur** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/misool-timur/) | **Kec. Kepulauan Sembilan** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/kepulauan-sembilan/) |
+| **Kec. Salawati Utara** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/salawati-utara/) | **Kec. Salawati Tengah** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/salawati-tengah/) |
+| **Kec. Salawati Barat** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/salawati-barat/) | **Kec. Batanta Selatan** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/batanta-selatan/) |
+| **Kec. Batanta Utara** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/batanta-utara/) | **Kec. Waigeo Selatan** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/waigeo-selatan/) |
+| **Kec. Teluk Mayalibit** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/teluk-mayalibit/) | **Kec. Meos Mansar** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/meos-mansar/) |
+| **Kec. Kota Waisai** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/kota-waisai/) | **Kec. Tiplol Mayalibit** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/tiplol-mayalibit/) |
+| **Kec. Waigeo Barat** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/waigeo-barat/) | **Kec. Waigeo Barat Kepulauan** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/waigeo-barat-kepulauan/) |
+| **Kec. Waigeo Utara** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/waigeo-utara/) | **Kec. Warwarbomi** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/warwarbomi/) |
+| **Kec. Supnin** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/supnin/) | **Kec. Kepulauan Ayau** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/kepulauan-ayau/) |
+| **Kec. Ayau** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/ayau/) | **Kec. Waigeo Timur** | Raja Ampat | [Buka 🚀](https://kerabatweb.com/papua-barat/raja-ampat/waigeo-timur/) |
+| **Kec. Fef** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/fef/) | **Kec. Syujak** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/syujak/) |
+| **Kec. Ases** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/ases/) | **Kec. Tinggouw** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/tinggouw/) |
+| **Kec. Miyah** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/miyah/) | **Kec. Miyah Selatan** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/miyah-selatan/) |
+| **Kec. Ireres** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/ireres/) | **Kec. Wilhem Roumbouts** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/wilhem-roumbouts/) |
+| **Kec. Abun** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/abun/) | **Kec. Kwoor** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/kwoor/) |
+| **Kec. Tobouw** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/tobouw/) | **Kec. Kwesefo** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/kwesefo/) |
+| **Kec. Sausapor** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/sausapor/) | **Kec. Bikar** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/bikar/) |
+| **Kec. Yembun** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/yembun/) | **Kec. Bamusbama** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/bamusbama/) |
+| **Kec. Kebar** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/kebar/) | **Kec. Kebar Timur** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/kebar-timur/) |
+| **Kec. Kebar Selatan** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/kebar-selatan/) | **Kec. Manekar** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/manekar/) |
+| **Kec. Senopi** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/senopi/) | **Kec. Mawabuan** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/mawabuan/) |
+| **Kec. Amberbaken** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/amberbaken/) | **Kec. Mpur** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/mpur/) |
+| **Kec. Amberbaken Barat** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/amberbaken-barat/) | **Kec. Mubarni / Arfu** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/mubarni-arfu/) |
+| **Kec. Moraid** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/moraid/) | **Kec. Selemkai** | Tambrauw | [Buka 🚀](https://kerabatweb.com/papua-barat/tambrauw/selemkai/) |
+| **Kec. Aitinyo Barat/Athabu** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aitinyo-baratathabu/) | **Kec. Ayamaru Selatan Jaya** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-selatan-jaya/) |
+| **Kec. Aitinyo** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aitinyo/) | **Kec. Aitinyo Tengah** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aitinyo-tengah/) |
+| **Kec. Aifat Selatan** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aifat-selatan/) | **Kec. Aifat Timur Selatan** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aifat-timur-selatan/) |
+| **Kec. Aifat** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aifat/) | **Kec. Aitinyo Utara** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aitinyo-utara/) |
+| **Kec. Aitinyo Raya** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aitinyo-raya/) | **Kec. Ayamaru Timur** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-timur/) |
+| **Kec. Ayamaru Timur Selatan** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-timur-selatan/) | **Kec. Ayamaru** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru/) |
+| **Kec. Ayamaru Selatan** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-selatan/) | **Kec. Ayamaru Jaya** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-jaya/) |
+| **Kec. Ayamaru Tengah** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-tengah/) | **Kec. Ayamaru Barat** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-barat/) |
+| **Kec. Ayamaru Utara** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-utara/) | **Kec. Ayamaru Utara Timur** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/ayamaru-utara-timur/) |
+| **Kec. Mare** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/mare/) | **Kec. Mare Selatan** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/mare-selatan/) |
+| **Kec. Aifat Utara** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aifat-utara/) | **Kec. Aifat Timur** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aifat-timur/) |
+| **Kec. Aifat Timur Tengah** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aifat-timur-tengah/) | **Kec. Aifat Timur Jauh** | Maybrat | [Buka 🚀](https://kerabatweb.com/papua-barat/maybrat/aifat-timur-jauh/) |
+| **Kec. Tahota** | Manokwari Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari-selatan/tahota/) | **Kec. Dataran Isim** | Manokwari Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari-selatan/dataran-isim/) |
+| **Kec. Nenei** | Manokwari Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari-selatan/nenei/) | **Kec. Momi Waren** | Manokwari Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari-selatan/momi-waren/) |
+| **Kec. Ransiki** | Manokwari Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari-selatan/ransiki/) | **Kec. Oransbari** | Manokwari Selatan | [Buka 🚀](https://kerabatweb.com/papua-barat/manokwari-selatan/oransbari/) |
+| **Kec. Didohu** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/didohu/) | **Kec. Sururey** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/sururey/) |
+| **Kec. Anggi Gida** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/anggi-gida/) | **Kec. Membey** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/membey/) |
+| **Kec. Anggi** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/anggi/) | **Kec. Taige** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/taige/) |
+| **Kec. Hingk** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/hingk/) | **Kec. Menyambouw** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/menyambouw/) |
+| **Kec. Catubouw** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/catubouw/) | **Kec. Testega** | Pegunungan Arfak | [Buka 🚀](https://kerabatweb.com/papua-barat/pegunungan-arfak/testega/) |
+| **Kec. Sorong Barat** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/sorong-barat/) | **Kec. Sorong Kepulauan** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/sorong-kepulauan/) |
+| **Kec. Maladum Mes** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/maladum-mes/) | **Kec. Sorong Timur** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/sorong-timur/) |
+| **Kec. Sorong Utara** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/sorong-utara/) | **Kec. Sorong** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/sorong/) |
+| **Kec. Sorong Manoi** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/sorong-manoi/) | **Kec. Klaurung** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/klaurung/) |
+| **Kec. Malaimsimsa** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/malaimsimsa/) | **Kec. Sorong Kota** | Kota Sorong | [Buka 🚀](https://kerabatweb.com/papua-barat/kota-sorong/sorong-kota/) |
+| **Kec. Kimaam** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/kimaam/) | **Kec. Waan** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/waan/) |
+| **Kec. Tabonji** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/tabonji/) | **Kec. Ilwayab** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/ilwayab/) |
+| **Kec. Okaba** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/okaba/) | **Kec. Tubang** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/tubang/) |
+| **Kec. Ngguti** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/ngguti/) | **Kec. Kaptel** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/kaptel/) |
+| **Kec. Kurik** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/kurik/) | **Kec. Malind** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/malind/) |
+| **Kec. Animha** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/animha/) | **Kec. Merauke** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/merauke/) |
+| **Kec. Semangga** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/semangga/) | **Kec. Tanah Miring** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/tanah-miring/) |
+| **Kec. Jagebob** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/jagebob/) | **Kec. Sota** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/sota/) |
+| **Kec. Naukenjerai** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/naukenjerai/) | **Kec. Muting** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/muting/) |
+| **Kec. Eligobel** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/eligobel/) | **Kec. Ulilin** | Merauke | [Buka 🚀](https://kerabatweb.com/papua/merauke/ulilin/) |
+| **Kec. Wamena** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/wamena/) | **Kec. Asolokobal** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/asolokobal/) |
+| **Kec. Walelagama** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/walelagama/) | **Kec. Trikora** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/trikora/) |
+| **Kec. Napua** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/napua/) | **Kec. Walaik** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/walaik/) |
+| **Kec. Wouma** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/wouma/) | **Kec. Walesi** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/walesi/) |
+| **Kec. Asotipo** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/asotipo/) | **Kec. Maima** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/maima/) |
+| **Kec. Hubikosi** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/hubikosi/) | **Kec. Pelebaga** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/pelebaga/) |
+| **Kec. Ibele** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/ibele/) | **Kec. Tailarek** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/tailarek/) |
+| **Kec. Hubikiak** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/hubikiak/) | **Kec. Asologaima** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/asologaima/) |
+| **Kec. Musatfak** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/musatfak/) | **Kec. Silo Karno Doga** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/silo-karno-doga/) |
+| **Kec. Pyramid** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/pyramid/) | **Kec. Muliama** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/muliama/) |
+| **Kec. Wame** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/wame/) | **Kec. Kurulu** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/kurulu/) |
+| **Kec. Usilimo** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/usilimo/) | **Kec. Wita Waya** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/wita-waya/) |
+| **Kec. Libarek** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/libarek/) | **Kec. Wadangku** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/wadangku/) |
+| **Kec. Pisugi** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/pisugi/) | **Kec. Bolakme** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/bolakme/) |
+| **Kec. Wollo** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/wollo/) | **Kec. Yalengga** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/yalengga/) |
+| **Kec. Tagime** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/tagime/) | **Kec. Molagalome** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/molagalome/) |
+| **Kec. Tagineri** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/tagineri/) | **Kec. Bugi** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/bugi/) |
+| **Kec. Bpiri** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/bpiri/) | **Kec. Koragi** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/koragi/) |
+| **Kec. Itlay Hasige** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/itlay-hasige/) | **Kec. Siepkosi** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/siepkosi/) |
+| **Kec. Popugoba** | Jayawijaya | [Buka 🚀](https://kerabatweb.com/papua/jayawijaya/popugoba/) | **Kec. Kaureh** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/kaureh/) |
+| **Kec. Airu** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/airu/) | **Kec. Yapsi** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/yapsi/) |
+| **Kec. Kemtuk** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/kemtuk/) | **Kec. Kemtuk Gresi** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/kemtuk-gresi/) |
+| **Kec. Gresi Selatan** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/gresi-selatan/) | **Kec. Nimboran** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/nimboran/) |
+| **Kec. Nimboran Timur / Namblong** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/nimboran-timur-namblong/) | **Kec. Nimbokrang** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/nimbokrang/) |
+| **Kec. Unurum Guay** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/unurum-guay/) | **Kec. Demta** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/demta/) |
+| **Kec. Yokari** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/yokari/) | **Kec. Depapre** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/depapre/) |
+| **Kec. Ravenirara** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/ravenirara/) | **Kec. Sentani Barat** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/sentani-barat/) |
+| **Kec. Waibu** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/waibu/) | **Kec. Sentani** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/sentani/) |
+| **Kec. Ebungfau** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/ebungfau/) | **Kec. Sentani Timur** | Jayapura | [Buka 🚀](https://kerabatweb.com/papua/jayapura/sentani-timur/) |
+| **Kec. Uwapa** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/uwapa/) | **Kec. Menou** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/menou/) |
+| **Kec. Dipa** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/dipa/) | **Kec. Yaur** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/yaur/) |
+| **Kec. Teluk Umar** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/teluk-umar/) | **Kec. Wanggar** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/wanggar/) |
+| **Kec. Nabire Barat** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/nabire-barat/) | **Kec. Nabire** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/nabire/) |
+| **Kec. Teluk Kimi** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/teluk-kimi/) | **Kec. Napan** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/napan/) |
+| **Kec. Makimi** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/makimi/) | **Kec. Wapoga** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/wapoga/) |
+| **Kec. Kepulauan Moora** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/kepulauan-moora/) | **Kec. Siriwo** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/siriwo/) |
+| **Kec. Yaro** | Nabire | [Buka 🚀](https://kerabatweb.com/papua/nabire/yaro/) | **Kec. Yapen Timur** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/yapen-timur/) |
+| **Kec. Pantura Yapen** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/pantura-yapen/) | **Kec. Teluk Ampimoi** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/teluk-ampimoi/) |
+| **Kec. Raimbawi** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/raimbawi/) | **Kec. Pulau Kurudu** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/pulau-kurudu/) |
+| **Kec. Angkaisera** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/angkaisera/) | **Kec. Kep. Ambai** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/kep-ambai/) |
+| **Kec. Yawakukat** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/yawakukat/) | **Kec. Yapen Selatan** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/yapen-selatan/) |
+| **Kec. Kosiwo** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/kosiwo/) | **Kec. Anataurei** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/anataurei/) |
+| **Kec. Yapen Barat** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/yapen-barat/) | **Kec. Wonawa** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/wonawa/) |
+| **Kec. Pulau Yerui** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/pulau-yerui/) | **Kec. Poom** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/poom/) |
+| **Kec. Windesi** | Kepulauan Yapen | [Buka 🚀](https://kerabatweb.com/papua/kepulauan-yapen/windesi/) | **Kec. Numfor Barat** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/numfor-barat/) |
+| **Kec. Orkeri** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/orkeri/) | **Kec. Numfor Timur** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/numfor-timur/) |
+| **Kec. Bruyadori** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/bruyadori/) | **Kec. Poiru** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/poiru/) |
+| **Kec. Padaido** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/padaido/) | **Kec. Aimando Padaido** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/aimando-padaido/) |
+| **Kec. Biak Timur** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/biak-timur/) | **Kec. Oridek** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/oridek/) |
+| **Kec. Biak Kota** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/biak-kota/) | **Kec. Samofa** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/samofa/) |
+| **Kec. Yendidori** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/yendidori/) | **Kec. Biak Utara** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/biak-utara/) |
+| **Kec. Andey** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/andey/) | **Kec. Warsa** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/warsa/) |
+| **Kec. Yawosi** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/yawosi/) | **Kec. Bondifuar** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/bondifuar/) |
+| **Kec. Biak Barat** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/biak-barat/) | **Kec. Swandiwe** | Biak Numfor | [Buka 🚀](https://kerabatweb.com/papua/biak-numfor/swandiwe/) |
+| **Kec. Paniai Timur** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/paniai-timur/) | **Kec. Yatamo** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/yatamo/) |
+| **Kec. Kebo** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/kebo/) | **Kec. Pugo Dagi** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/pugo-dagi/) |
+| **Kec. Wege Muka** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/wege-muka/) | **Kec. Wegee Bino** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/wegee-bino/) |
+| **Kec. Yagai** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/yagai/) | **Kec. Bibida** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/bibida/) |
+| **Kec. Dumadama** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/dumadama/) | **Kec. Aradide** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/aradide/) |
+| **Kec. Ekadide** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/ekadide/) | **Kec. Aweida** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/aweida/) |
+| **Kec. Fajar Timur** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/fajar-timur/) | **Kec. Topiyai** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/topiyai/) |
+| **Kec. Paniai Barat** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/paniai-barat/) | **Kec. Siriwo** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/siriwo/) |
+| **Kec. Muye** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/muye/) | **Kec. Nakama** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/nakama/) |
+| **Kec. Teluk Deya** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/teluk-deya/) | **Kec. Bogobaida** | Paniai | [Buka 🚀](https://kerabatweb.com/papua/paniai/bogobaida/) |
+| **Kec. Fawi** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/fawi/) | **Kec. Dagai** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/dagai/) |
+| **Kec. Kiyage** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/kiyage/) | **Kec. Mulia** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/mulia/) |
+| **Kec. Yambi** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/yambi/) | **Kec. Ilamburawi** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/ilamburawi/) |
+| **Kec. Muara** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/muara/) | **Kec. Pagaleme** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/pagaleme/) |
+| **Kec. Gurage** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/gurage/) | **Kec. Irimuli** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/irimuli/) |
+| **Kec. Ilu** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/ilu/) | **Kec. Torere** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/torere/) |
+| **Kec. Yamoneri** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/yamoneri/) | **Kec. Waegi** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/waegi/) |
+| **Kec. Nume** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/nume/) | **Kec. Nioga** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/nioga/) |
+| **Kec. Gubume** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/gubume/) | **Kec. Taganombak** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/taganombak/) |
+| **Kec. Tingginambut** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/tingginambut/) | **Kec. Kalome** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/kalome/) |
+| **Kec. Wanwi** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/wanwi/) | **Kec. Mewoluk** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/mewoluk/) |
+| **Kec. Lumo** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/lumo/) | **Kec. Molanikime** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/molanikime/) |
+| **Kec. Yamo** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/yamo/) | **Kec. Dokome** | Puncak Jaya | [Buka 🚀](https://kerabatweb.com/papua/puncak-jaya/dokome/) |
+| **Kec. Mimika Barat** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/mimika-barat/) | **Kec. Mimika Barat Jauh** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/mimika-barat-jauh/) |
+| **Kec. Mimika Barat Tengah** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/mimika-barat-tengah/) | **Kec. Amar** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/amar/) |
+| **Kec. Mimika Timur** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/mimika-timur/) | **Kec. Mimika Tengah** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/mimika-tengah/) |
+| **Kec. Mimika Timur Jauh** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/mimika-timur-jauh/) | **Kec. Mimika Baru** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/mimika-baru/) |
+| **Kec. Kuala Kencana** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/kuala-kencana/) | **Kec. Tembagapura** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/tembagapura/) |
+| **Kec. Wania** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/wania/) | **Kec. Iwaka** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/iwaka/) |
+| **Kec. Kwamki Narama** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/kwamki-narama/) | **Kec. Agimuga** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/agimuga/) |
+| **Kec. Jila** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/jila/) | **Kec. Jita** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/jita/) |
+| **Kec. Alama** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/alama/) | **Kec. Hoya** | Mimika | [Buka 🚀](https://kerabatweb.com/papua/mimika/hoya/) |
+| **Kec. Jair** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/jair/) | **Kec. Subur** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/subur/) |
+| **Kec. Kia** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/kia/) | **Kec. Mindiptana** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/mindiptana/) |
+| **Kec. Iniyandit** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/iniyandit/) | **Kec. Kombut** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/kombut/) |
+| **Kec. Sesnuk** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/sesnuk/) | **Kec. Mandobo** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/mandobo/) |
+| **Kec. Fofi** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/fofi/) | **Kec. Arimop** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/arimop/) |
+| **Kec. Kouh** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/kouh/) | **Kec. Bomakia** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/bomakia/) |
+| **Kec. Firiwage** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/firiwage/) | **Kec. Manggelum** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/manggelum/) |
+| **Kec. Yaniruma** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/yaniruma/) | **Kec. Kawagit** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/kawagit/) |
+| **Kec. Kombay** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/kombay/) | **Kec. Waropko** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/waropko/) |
+| **Kec. Ambatkwi** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/ambatkwi/) | **Kec. Ninati** | Boven Digoel | [Buka 🚀](https://kerabatweb.com/papua/boven-digoel/ninati/) |
+| **Kec. Nambioman Bapai** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/nambioman-bapai/) | **Kec. Minyamur** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/minyamur/) |
+| **Kec. Edera** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/edera/) | **Kec. Venaha** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/venaha/) |
+| **Kec. Syahcame** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/syahcame/) | **Kec. Bamgi** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/bamgi/) |
+| **Kec. Yakomi** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/yakomi/) | **Kec. Obaa** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/obaa/) |
+| **Kec. Passue** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/passue/) | **Kec. Haju** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/haju/) |
+| **Kec. Assue** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/assue/) | **Kec. Citakmitak** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/citakmitak/) |
+| **Kec. Kaibar** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/kaibar/) | **Kec. Passue Bawah** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/passue-bawah/) |
+| **Kec. Ti-Zain** | Mappi | [Buka 🚀](https://kerabatweb.com/papua/mappi/ti-zain/) | **Kec. Pantai Kasuari** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/pantai-kasuari/) |
+| **Kec. Kopay** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/kopay/) | **Kec. Der Koumur** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/der-koumur/) |
+| **Kec. Safan** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/safan/) | **Kec. Awyu** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/awyu/) |
+| **Kec. Fayit** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/fayit/) | **Kec. Aswi** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/aswi/) |
+| **Kec. Atsy** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/atsy/) | **Kec. Sirets** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/sirets/) |
+| **Kec. Ayip** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/ayip/) | **Kec. Bectbamu** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/bectbamu/) |
+| **Kec. Suator** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/suator/) | **Kec. Kolf Braza** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/kolf-braza/) |
+| **Kec. Joutu** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/joutu/) | **Kec. Koroway Buluanop** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/koroway-buluanop/) |
+| **Kec. Akat** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/akat/) | **Kec. Jetsy** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/jetsy/) |
+| **Kec. Agats** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/agats/) | **Kec. Sawa Erma** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/sawa-erma/) |
+| **Kec. Suru-Suru** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/suru-suru/) | **Kec. Unir Sirau** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/unir-sirau/) |
+| **Kec. Joerat** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/joerat/) | **Kec. Pulau Tiga** | Asmat | [Buka 🚀](https://kerabatweb.com/papua/asmat/pulau-tiga/) |
+| **Kec. Kurima** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/kurima/) | **Kec. Musaik** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/musaik/) |
+| **Kec. Dekai** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/dekai/) | **Kec. Obio** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/obio/) |
+| **Kec. Pasema** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/pasema/) | **Kec. Amuma** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/amuma/) |
+| **Kec. Suru-Suru** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/suru-suru/) | **Kec. Wusama** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/wusama/) |
+| **Kec. Silimo** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/silimo/) | **Kec. Ninia** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/ninia/) |
+| **Kec. Holuwon** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/holuwon/) | **Kec. Lolat** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/lolat/) |
+| **Kec. Langda** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/langda/) | **Kec. Bomela** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/bomela/) |
+| **Kec. Suntamon** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/suntamon/) | **Kec. Sobaham** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/sobaham/) |
+| **Kec. Korupun** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/korupun/) | **Kec. Sela** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/sela/) |
+| **Kec. Kwelamdua** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/kwelamdua/) | **Kec. Anggruk** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/anggruk/) |
+| **Kec. Panggema** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/panggema/) | **Kec. Walma** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/walma/) |
+| **Kec. Kosarek** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/kosarek/) | **Kec. Ubahak** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/ubahak/) |
+| **Kec. Nalca** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/nalca/) | **Kec. Puldama** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/puldama/) |
+| **Kec. Nipsan** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/nipsan/) | **Kec. Samenage** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/samenage/) |
+| **Kec. Tangma** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/tangma/) | **Kec. Soba** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/soba/) |
+| **Kec. Mugi** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/mugi/) | **Kec. Yogosem** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/yogosem/) |
+| **Kec. Kayo** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/kayo/) | **Kec. Sumo** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/sumo/) |
+| **Kec. Hogio** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/hogio/) | **Kec. Ukha** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/ukha/) |
+| **Kec. Werima** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/werima/) | **Kec. Soloikma** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/soloikma/) |
+| **Kec. Seradala** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/seradala/) | **Kec. Kabianggama** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/kabianggama/) |
+| **Kec. Kwikma** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/kwikma/) | **Kec. Hilipuk** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/hilipuk/) |
+| **Kec. Yahuliambut** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/yahuliambut/) | **Kec. Hereapini** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/hereapini/) |
+| **Kec. Ubalihi** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/ubalihi/) | **Kec. Talambo** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/talambo/) |
+| **Kec. Pronggoli** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/pronggoli/) | **Kec. Endomen** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/endomen/) |
+| **Kec. Kona** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/kona/) | **Kec. Duram** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/duram/) |
+| **Kec. Dirwemna** | Yahukimo | [Buka 🚀](https://kerabatweb.com/papua/yahukimo/dirwemna/) | **Kec. Iwur** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/iwur/) |
+| **Kec. Kawor** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/kawor/) | **Kec. Tarup** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/tarup/) |
+| **Kec. Awinbon** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/awinbon/) | **Kec. Oksibil** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/oksibil/) |
+| **Kec. Pepera** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/pepera/) | **Kec. Alemsom** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/alemsom/) |
+| **Kec. Serambakon** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/serambakon/) | **Kec. Kolomdol** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/kolomdol/) |
+| **Kec. Oksop** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/oksop/) | **Kec. Ok Bape** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/ok-bape/) |
+| **Kec. Ok Aon** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/ok-aon/) | **Kec. Borme** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/borme/) |
+| **Kec. Bime** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/bime/) | **Kec. Epumek** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/epumek/) |
+| **Kec. Weime** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/weime/) | **Kec. Pamek** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/pamek/) |
+| **Kec. Nongme** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/nongme/) | **Kec. Batani** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/batani/) |
+| **Kec. Okbi** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/okbi/) | **Kec. Aboy** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/aboy/) |
+| **Kec. Okbab** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/okbab/) | **Kec. Teiraplu** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/teiraplu/) |
+| **Kec. Yefta** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/yefta/) | **Kec. Kiwirok** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/kiwirok/) |
+| **Kec. Kiwirok Timur** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/kiwirok-timur/) | **Kec. Oksebang** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/oksebang/) |
+| **Kec. Okhika** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/okhika/) | **Kec. Oklip** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/oklip/) |
+| **Kec. Oksamol** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/oksamol/) | **Kec. Okbemta** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/okbemta/) |
+| **Kec. Batom** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/batom/) | **Kec. Murkim** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/murkim/) |
+| **Kec. Mofinop** | Pegunungan Bintang | [Buka 🚀](https://kerabatweb.com/papua/pegunungan-bintang/mofinop/) | **Kec. Kanggime** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/kanggime/) |
+| **Kec. Woniki** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/woniki/) | **Kec. Nabunage** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/nabunage/) |
+| **Kec. Gilubandu** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/gilubandu/) | **Kec. Wakuo** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/wakuo/) |
+| **Kec. Aweku** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/aweku/) | **Kec. Bogonuk** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/bogonuk/) |
+| **Kec. Karubaga** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/karubaga/) | **Kec. Goyage** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/goyage/) |
+| **Kec. Wunin** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/wunin/) | **Kec. Kondaga** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/kondaga/) |
+| **Kec. Nelawi** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/nelawi/) | **Kec. Kuari** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/kuari/) |
+| **Kec. Lianogoma** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/lianogoma/) | **Kec. Biuk** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/biuk/) |
+| **Kec. Bokondini** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/bokondini/) | **Kec. Bokoneri** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/bokoneri/) |
+| **Kec. Bewani** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/bewani/) | **Kec. Kembu** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/kembu/) |
+| **Kec. Wina** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/wina/) | **Kec. Umagi** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/umagi/) |
+| **Kec. Panaga** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/panaga/) | **Kec. Poganeri** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/poganeri/) |
+| **Kec. Kamboneri** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/kamboneri/) | **Kec. Air Garam** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/air-garam/) |
+| **Kec. Dow** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/dow/) | **Kec. Wari / Taiyeve** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/wari-taiyeve/) |
+| **Kec. Egiam** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/egiam/) | **Kec. Nunggawi** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/nunggawi/) |
+| **Kec. Kubu** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/kubu/) | **Kec. Anawi** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/anawi/) |
+| **Kec. Wugi** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/wugi/) | **Kec. Geya** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/geya/) |
+| **Kec. Wenam** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/wenam/) | **Kec. Numba** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/numba/) |
+| **Kec. Kai** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/kai/) | **Kec. Dundu** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/dundu/) |
+| **Kec. Gundagi** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/gundagi/) | **Kec. Timori** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/timori/) |
+| **Kec. Yuneri** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/yuneri/) | **Kec. Tagime** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/tagime/) |
+| **Kec. Danime** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/danime/) | **Kec. Yuko** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/yuko/) |
+| **Kec. Telenggeme** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/telenggeme/) | **Kec. Gika** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/gika/) |
+| **Kec. Tagineri** | Tolikara | [Buka 🚀](https://kerabatweb.com/papua/tolikara/tagineri/) | **Kec. Pantai Timur Bagian Barat** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/pantai-timur-bagian-barat/) |
+| **Kec. Pantai Timur** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/pantai-timur/) | **Kec. Sungai Biri** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/sungai-biri/) |
+| **Kec. Veen** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/veen/) | **Kec. Bonggo** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/bonggo/) |
+| **Kec. Bonggo Timur** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/bonggo-timur/) | **Kec. Bonggo Barat** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/bonggo-barat/) |
+| **Kec. Tor Atas** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/tor-atas/) | **Kec. Ismari** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/ismari/) |
+| **Kec. Sarmi** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/sarmi/) | **Kec. Sarmi Timur** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/sarmi-timur/) |
+| **Kec. Sarmi Selatan** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/sarmi-selatan/) | **Kec. Sobey** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/sobey/) |
+| **Kec. Muara Tor** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/muara-tor/) | **Kec. Verkam** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/verkam/) |
+| **Kec. Pantai Barat** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/pantai-barat/) | **Kec. Apawer Hulu** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/apawer-hulu/) |
+| **Kec. Apawer Hilir** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/apawer-hilir/) | **Kec. Apawer Tengah** | Sarmi | [Buka 🚀](https://kerabatweb.com/papua/sarmi/apawer-tengah/) |
+| **Kec. Web** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/web/) | **Kec. Towe** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/towe/) |
+| **Kec. Yaffi** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/yaffi/) | **Kec. Senggi** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/senggi/) |
+| **Kec. Kaisenar** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/kaisenar/) | **Kec. Waris** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/waris/) |
+| **Kec. Arso** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/arso/) | **Kec. Arso Timur** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/arso-timur/) |
+| **Kec. Arso Barat** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/arso-barat/) | **Kec. Mannem** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/mannem/) |
+| **Kec. Skanto** | Keerom | [Buka 🚀](https://kerabatweb.com/papua/keerom/skanto/) | **Kec. Waropen Bawah** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/waropen-bawah/) |
+| **Kec. Inggerus** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/inggerus/) | **Kec. Urei Faisei** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/urei-faisei/) |
+| **Kec. Oudate** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/oudate/) | **Kec. Wapoga** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/wapoga/) |
+| **Kec. Masirei** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/masirei/) | **Kec. Risei Sayati** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/risei-sayati/) |
+| **Kec. Demba** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/demba/) | **Kec. Soyoi Mambai** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/soyoi-mambai/) |
+| **Kec. Wonti** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/wonti/) | **Kec. Walani** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/walani/) |
+| **Kec. Kirihi** | Waropen | [Buka 🚀](https://kerabatweb.com/papua/waropen/kirihi/) | **Kec. Supiori Selatan** | Supiori | [Buka 🚀](https://kerabatweb.com/papua/supiori/supiori-selatan/) |
+| **Kec. Kepulauan Aruri** | Supiori | [Buka 🚀](https://kerabatweb.com/papua/supiori/kepulauan-aruri/) | **Kec. Supiori Utara** | Supiori | [Buka 🚀](https://kerabatweb.com/papua/supiori/supiori-utara/) |
+| **Kec. Supiori Barat** | Supiori | [Buka 🚀](https://kerabatweb.com/papua/supiori/supiori-barat/) | **Kec. Supiori Timur** | Supiori | [Buka 🚀](https://kerabatweb.com/papua/supiori/supiori-timur/) |
+| **Kec. Waropen Atas** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/waropen-atas/) | **Kec. Benuki** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/benuki/) |
+| **Kec. Sawai** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/sawai/) | **Kec. Mamberamo Ilir** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/mamberamo-ilir/) |
+| **Kec. Mamberamo Tengah** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/mamberamo-tengah/) | **Kec. Iwaso** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/iwaso/) |
+| **Kec. Mamberamo Tengah Timur** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/mamberamo-tengah-timur/) | **Kec. Rofaer** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/rofaer/) |
+| **Kec. Mamberamo Ulu** | Mamberamo Raya | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-raya/mamberamo-ulu/) | **Kec. Wosak** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/wosak/) |
+| **Kec. Moba** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/moba/) | **Kec. Pija** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/pija/) |
+| **Kec. Kora** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/kora/) | **Kec. Kenyam** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/kenyam/) |
+| **Kec. Mbuwa Tengah** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/mbuwa-tengah/) | **Kec. Krepkuri** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/krepkuri/) |
+| **Kec. Embetpem** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/embetpem/) | **Kec. Geselma** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/geselma/) |
+| **Kec. Kilmid** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/kilmid/) | **Kec. Yenggelo** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/yenggelo/) |
+| **Kec. Alama** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/alama/) | **Kec. Meborok** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/meborok/) |
+| **Kec. Mapenduma** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/mapenduma/) | **Kec. Kroptak** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/kroptak/) |
+| **Kec. Paro** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/paro/) | **Kec. Kegayem** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/kegayem/) |
+| **Kec. Mugi** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/mugi/) | **Kec. Yal** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/yal/) |
+| **Kec. Mam** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/mam/) | **Kec. Yigi** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/yigi/) |
+| **Kec. Dal** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/dal/) | **Kec. Nirkuri** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/nirkuri/) |
+| **Kec. Inikgal** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/inikgal/) | **Kec. Mbuwa** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/mbuwa/) |
+| **Kec. Iniye** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/iniye/) | **Kec. Wutpaga** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/wutpaga/) |
+| **Kec. Nenggeangin** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/nenggeangin/) | **Kec. Mbulmu Yalma** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/mbulmu-yalma/) |
+| **Kec. Gearek** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/gearek/) | **Kec. Pasir Putih** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/pasir-putih/) |
+| **Kec. Wusi** | Nduga | [Buka 🚀](https://kerabatweb.com/papua/nduga/wusi/) | **Kec. Makki** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/makki/) |
+| **Kec. Gupura** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/gupura/) | **Kec. Kolawa** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/kolawa/) |
+| **Kec. Gelok Beam** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/gelok-beam/) | **Kec. Awina** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/awina/) |
+| **Kec. Pirime** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/pirime/) | **Kec. Buguk Gona** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/buguk-gona/) |
+| **Kec. Milimbo** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/milimbo/) | **Kec. Gollo** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/gollo/) |
+| **Kec. Wiringgabut** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/wiringgabut/) | **Kec. Tiom** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/tiom/) |
+| **Kec. Nogi** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/nogi/) | **Kec. Mokoni** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/mokoni/) |
+| **Kec. Niname** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/niname/) | **Kec. Yiginua** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/yiginua/) |
+| **Kec. Tiom Ollo** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/tiom-ollo/) | **Kec. Yugunwi** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/yugunwi/) |
+| **Kec. Lannyna** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/lannyna/) | **Kec. Balingga** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/balingga/) |
+| **Kec. Balingga Barat** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/balingga-barat/) | **Kec. Bruwa** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/bruwa/) |
+| **Kec. Ayumnati** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/ayumnati/) | **Kec. Kuyawage** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/kuyawage/) |
+| **Kec. Wano Barat** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/wano-barat/) | **Kec. Malagaineri** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/malagaineri/) |
+| **Kec. Melagai** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/melagai/) | **Kec. Tiomneri** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/tiomneri/) |
+| **Kec. Wereka** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/wereka/) | **Kec. Dimba** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/dimba/) |
+| **Kec. Kelulome** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/kelulome/) | **Kec. Nikogwe** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/nikogwe/) |
+| **Kec. Gamelia** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/gamelia/) | **Kec. Karu** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/karu/) |
+| **Kec. Yiluk** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/yiluk/) | **Kec. Guna** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/guna/) |
+| **Kec. Poga** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/poga/) | **Kec. Muara** | Lanny Jaya | [Buka 🚀](https://kerabatweb.com/papua/lanny-jaya/muara/) |
+| **Kec. Kobakma** | Mamberamo Tengah | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-tengah/kobakma/) | **Kec. Ilugwa** | Mamberamo Tengah | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-tengah/ilugwa/) |
+| **Kec. Kelila** | Mamberamo Tengah | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-tengah/kelila/) | **Kec. Eragayam** | Mamberamo Tengah | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-tengah/eragayam/) |
+| **Kec. Megambilis** | Mamberamo Tengah | [Buka 🚀](https://kerabatweb.com/papua/mamberamo-tengah/megambilis/) | **Kec. Welarek** | Yalimo | [Buka 🚀](https://kerabatweb.com/papua/yalimo/welarek/) |
+| **Kec. Apalapsili** | Yalimo | [Buka 🚀](https://kerabatweb.com/papua/yalimo/apalapsili/) | **Kec. Abenaho** | Yalimo | [Buka 🚀](https://kerabatweb.com/papua/yalimo/abenaho/) |
+| **Kec. Elelim** | Yalimo | [Buka 🚀](https://kerabatweb.com/papua/yalimo/elelim/) | **Kec. Benawa** | Yalimo | [Buka 🚀](https://kerabatweb.com/papua/yalimo/benawa/) |
+| **Kec. Agadugume** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/agadugume/) | **Kec. Lambewi** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/lambewi/) |
+| **Kec. Oneri** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/oneri/) | **Kec. Gome** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/gome/) |
+| **Kec. Amungkalpia** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/amungkalpia/) | **Kec. Gome Utara** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/gome-utara/) |
+| **Kec. Erelmakawia** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/erelmakawia/) | **Kec. Ilaga** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/ilaga/) |
+| **Kec. Ilaga Utara** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/ilaga-utara/) | **Kec. Mabugi** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/mabugi/) |
+| **Kec. Omukia** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/omukia/) | **Kec. Sinak** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/sinak/) |
+| **Kec. Sinak Barat** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/sinak-barat/) | **Kec. Mageábume** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/magebume/) |
+| **Kec. Yugumuak** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/yugumuak/) | **Kec. Pogoma** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/pogoma/) |
+| **Kec. Kembru** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/kembru/) | **Kec. Bina** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/bina/) |
+| **Kec. Wangbe** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/wangbe/) | **Kec. Ogamanim** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/ogamanim/) |
+| **Kec. Beoga** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/beoga/) | **Kec. Beoga Barat** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/beoga-barat/) |
+| **Kec. Beoga Timur** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/beoga-timur/) | **Kec. Doufo** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/doufo/) |
+| **Kec. Dervos** | Puncak | [Buka 🚀](https://kerabatweb.com/papua/puncak/dervos/) | **Kec. Sukikai Selatan** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/sukikai-selatan/) |
+| **Kec. Piyaiye** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/piyaiye/) | **Kec. Mapia Barat** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/mapia-barat/) |
+| **Kec. Mapia Tengah** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/mapia-tengah/) | **Kec. Mapia** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/mapia/) |
+| **Kec. Dogiyai** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/dogiyai/) | **Kec. Kamu Selatan** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/kamu-selatan/) |
+| **Kec. Kamu** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/kamu/) | **Kec. Kamu Timur** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/kamu-timur/) |
+| **Kec. Kamu Utara** | Dogiyai | [Buka 🚀](https://kerabatweb.com/papua/dogiyai/kamu-utara/) | **Kec. Homeyo** | Intan Jaya | [Buka 🚀](https://kerabatweb.com/papua/intan-jaya/homeyo/) |
 
 ---
 
 <div align="center">
   <b>Butuh Website untuk Bisnis Anda?</b><br>
-  <a href="https://wa.me/6285938573419">💬 Hubungi Kami via WhatsApp Sekarang</a><br><br>
+  <a href="https://wa.me/6285938573419">💬 Hubungi Kami via WhatsApp</a><br><br>
   <i>© 2026 KerabatWeb. All rights reserved.</i>
 </div>
