@@ -5,16 +5,16 @@
 [« Kembali ke Halaman Utama (Provinsi)](./README.md)
 </div>
 
-| Kecamatan | Kabupaten | Aksi | Kecamatan | Kabupaten | Aksi |
-|:---|:---|:---:|:---|:---|:---:|
-| **Kec. Sugapa** | Intan Jaya | [Buka 🚀](https://kerabatweb.com/papua/intan-jaya/sugapa/) | **Kec. Hitadipa** | Intan Jaya | [Buka 🚀](https://kerabatweb.com/papua/intan-jaya/hitadipa/) |
-| **Kec. Agisiga** | Intan Jaya | [Buka 🚀](https://kerabatweb.com/papua/intan-jaya/agisiga/) | **Kec. Biandoga** | Intan Jaya | [Buka 🚀](https://kerabatweb.com/papua/intan-jaya/biandoga/) |
-| **Kec. Wandai** | Intan Jaya | [Buka 🚀](https://kerabatweb.com/papua/intan-jaya/wandai/) | **Kec. Kapiraya** | Deiyai | [Buka 🚀](https://kerabatweb.com/papua/deiyai/kapiraya/) |
-| **Kec. Tigi Barat** | Deiyai | [Buka 🚀](https://kerabatweb.com/papua/deiyai/tigi-barat/) | **Kec. Tigi** | Deiyai | [Buka 🚀](https://kerabatweb.com/papua/deiyai/tigi/) |
-| **Kec. Tigi Timur** | Deiyai | [Buka 🚀](https://kerabatweb.com/papua/deiyai/tigi-timur/) | **Kec. Bowobado** | Deiyai | [Buka 🚀](https://kerabatweb.com/papua/deiyai/bowobado/) |
-| **Kec. Muara Tami** | Kota Jayapura | [Buka 🚀](https://kerabatweb.com/papua/kota-jayapura/muara-tami/) | **Kec. Abepura** | Kota Jayapura | [Buka 🚀](https://kerabatweb.com/papua/kota-jayapura/abepura/) |
-| **Kec. Heram** | Kota Jayapura | [Buka 🚀](https://kerabatweb.com/papua/kota-jayapura/heram/) | **Kec. Jayapura Selatan** | Kota Jayapura | [Buka 🚀](https://kerabatweb.com/papua/kota-jayapura/jayapura-selatan/) |
-| **Kec. Jayapura Utara** | Kota Jayapura | [Buka 🚀](https://kerabatweb.com/papua/kota-jayapura/jayapura-utara/) | | | |
+| Kecamatan (Kiri) | Kecamatan (Kanan) |
+|:---|:---|
+| - [Sugapa](https://kerabatweb.com/papua/intan-jaya/sugapa/) (Intan Jaya) | - [Hitadipa](https://kerabatweb.com/papua/intan-jaya/hitadipa/) (Intan Jaya) |
+| - [Agisiga](https://kerabatweb.com/papua/intan-jaya/agisiga/) (Intan Jaya) | - [Biandoga](https://kerabatweb.com/papua/intan-jaya/biandoga/) (Intan Jaya) |
+| - [Wandai](https://kerabatweb.com/papua/intan-jaya/wandai/) (Intan Jaya) | - [Kapiraya](https://kerabatweb.com/papua/deiyai/kapiraya/) (Deiyai) |
+| - [Tigi Barat](https://kerabatweb.com/papua/deiyai/tigi-barat/) (Deiyai) | - [Tigi](https://kerabatweb.com/papua/deiyai/tigi/) (Deiyai) |
+| - [Tigi Timur](https://kerabatweb.com/papua/deiyai/tigi-timur/) (Deiyai) | - [Bowobado](https://kerabatweb.com/papua/deiyai/bowobado/) (Deiyai) |
+| - [Muara Tami](https://kerabatweb.com/papua/kota-jayapura/muara-tami/) (Kota Jayapura) | - [Abepura](https://kerabatweb.com/papua/kota-jayapura/abepura/) (Kota Jayapura) |
+| - [Heram](https://kerabatweb.com/papua/kota-jayapura/heram/) (Kota Jayapura) | - [Jayapura Selatan](https://kerabatweb.com/papua/kota-jayapura/jayapura-selatan/) (Kota Jayapura) |
+| - [Jayapura Utara](https://kerabatweb.com/papua/kota-jayapura/jayapura-utara/) (Kota Jayapura) |  |
 
 ---
 
